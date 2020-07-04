@@ -1,0 +1,38 @@
+.header {
+color: lavender ;
+background-color: darkorchid;
+font-size: 175%;
+text-align: center;
+}
+
+.begning {
+  color: rgb(243, 160, 160);
+  background-color: black;
+  font-size: 175%;
+}
+
+.middle {
+  color: lightskyblue;
+  background-color: rgb(63, 62, 62);
+  font-size: 175%;
+}
+
+.intro {
+  color: rgb(238, 24, 113);
+  background-color: rgb(243, 191, 200);
+  font-size: 175%;
+}
+.image {
+  font-size: 175%;
+  position: static;
+}
+a.image:link {
+ color:coral;
+}
+
+a:hover {
+  color: brown;
+}
+a:active {
+  color:color;
+}
